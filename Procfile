@@ -1,0 +1,1 @@
+web: gunicorn derma2:app
