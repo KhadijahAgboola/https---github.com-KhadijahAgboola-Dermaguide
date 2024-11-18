@@ -1,1 +1,1 @@
-web: gunicorn derma2:app
+web: sh setup.sh && streamlit run app.py
